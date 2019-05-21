@@ -1,5 +1,14 @@
 
-# Specification 'trace-response-headers'
+# Trace Response Headers Specification
 
-This is the repository for trace-response-headers. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This repository is associated with the [Trace
+Response Headers](https://w3c.github.io/trace-response-headers/) specification.
+
+## Team Communication
+
+See
+[communication](https://github.com/w3c/distributed-tracing-wg#team-communication)
+
+We appreciate feedback and contributions. Please make sure to read rationale
+documents when you have a question about particular decision made in
+specification.
